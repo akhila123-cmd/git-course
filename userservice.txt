@@ -1,1 +1,2 @@
 get the data from the user and put it inthe application
+then the output will be clear and understandable
